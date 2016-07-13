@@ -18,4 +18,8 @@
         <item>Marte</item>
         <item>Jupiter</item>
     </string-array>
+
+    <string name="titulo_tarjeta">Android 5.</string>
+    <string name="descrpcion_tarjeta">Esta es la version donde se incluyó Material Design</string>
+
 </resources>
